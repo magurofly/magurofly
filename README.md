@@ -5,6 +5,8 @@
 
 ----
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=magurofly&left_color=olive&right_color=green)
+
 競技プログラミングをやっていません
 
 データ構造とアルゴリズムがちょっとすき
