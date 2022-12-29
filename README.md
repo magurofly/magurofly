@@ -13,3 +13,6 @@
 
 <a href="https://github.com/magurofly/cp-library-rb/" class="btn d-none d-md-inline-block">競プロ（Ruby）</a>
 <a href="https://github.com/magurofly/cp-library-rs/tree/parted" class="btn d-none d-md-inline-block">競プロ（Rust）</a>
+
+- [Twitter @magurofly](https://twitter.com/@magurofly)
+- [@magurofly@mstdn.poyo.me](https://mstdn.poyo.me/@magurofly)
