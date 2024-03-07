@@ -5,7 +5,7 @@
 
 ----
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=magurofly&left_color=olive&right_color=green)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmagurofly&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmagurofly)
 
 競技プログラミングをやっていません
 
